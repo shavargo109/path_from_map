@@ -117,8 +117,6 @@ def ouob():
     # enter your file path
     node = MapPathNode('/home/asd/catkin_ws/src/map.jpg',
                        '/home/asd/catkin_ws/src/map.yaml')
-    # node = MapPathNode('/home/asd/Robotics_ws/src/maps/map_LG2_indoor_0616_2_2023-06-16-12-23-40.jpg',
-    #                    '/home/asd/Robotics_ws/src/maps/map_LG2_indoor_0616_2_2023-06-16-12-23-40.yaml')
     rospy.sleep(5.0)
     node.path_publish(123)
 
