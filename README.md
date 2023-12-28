@@ -7,6 +7,6 @@ As the original generated file is in .pgm format, simply convert it into .jpg fo
 Inside the code, specify the file path, both .jpg and .yaml, and the first pixel as the starting point of the path
 Example:
 
-![alt text] (https://ibb.co/dtyx66P)
+![alt text](https://ibb.co/dtyx66P)
 
 you can get the first pixel in any graphic editor
