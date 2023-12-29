@@ -19,7 +19,7 @@ self.first_pixels_ = [160, 194]
 ```
 # enter your file path
 node = MapPathNode('your-path-to-map.jpg',
-                    'your-path-to-map.jpg')
+                    'your-path-to-map.yaml')
 ```
 ## Example:
 ![alt text](https://github.com/shavargo109/path_from_map/blob/main/doc/first_pixel.png)
