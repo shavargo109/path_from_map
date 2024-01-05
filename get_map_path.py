@@ -115,8 +115,8 @@ class MapPathNode(object):
 def ouob():
     rospy.init_node('map_path_node')
     # enter your file path
-    node = MapPathNode('/home/asd/catkin_ws/src/map.jpg',
-                       '/home/asd/catkin_ws/src/map.yaml')
+    node = MapPathNode('your-path-to-map.jpg',
+                       'your-path-to-map.yaml')
     rospy.sleep(5.0)
     node.path_publish(123)
 
