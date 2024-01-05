@@ -28,7 +28,7 @@ you can get the first pixel in any graphic editor
 
 ![alt text](https://github.com/shavargo109/path_from_map/blob/main/doc/image.png)
 
-Path dedicated in the .jpg file 
+Path indicated in the .jpg file 
 
 ![alt text](https://github.com/shavargo109/path_from_map/blob/main/doc/Rviz.png)
 
